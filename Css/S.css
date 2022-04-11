@@ -1,0 +1,229 @@
+/* my rulz */
+body
+{
+    
+}
+
+.contener
+{
+    width: 1170px;
+    margin: auto
+}
+
+.clear-fix
+{
+    clear: both
+}
+
+/* Start header */
+
+header
+{
+    height: 820px;
+    background-image: url("../Images/3.jpg");
+    background-size: cover; 
+}
+
+
+nav h3
+{
+    float: left;
+    color: #fff;
+    font-weight: bold
+}
+
+nav ul
+{
+    float: right;
+    list-style: none;
+}
+
+nav ul li
+{
+    display: inline;
+    padding: 10px
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    color: #f2f2f2
+}
+
+nav ul li a:hover
+{
+    text-decoration: underline;
+    color: #fff;
+    font-weight: bold
+}
+
+header h1
+{
+    text-align: center;
+    color: #fff;
+    margin: auto;
+    padding-top: 280px
+}
+
+header p
+{
+    color: #fff;
+    text-align: center;
+}
+/*End header */
+
+/*Start second s */
+
+.second .contener
+{
+    height: 200px;
+    padding: 80px;
+}
+.second .contener div
+{
+   float: left;
+   width: 30%;
+   text-align: center;
+   margin: 1%
+}
+
+.second .contener div i
+{
+    text-align: center;
+    display: block;
+    color: #de9f57;
+    height: 60px
+}
+
+.second .contener div a
+{
+    text-decoration: none;
+    color: #231818
+}
+
+.second .contener div a:hover
+{
+    color: #1f47b9;
+    font-weight: bold
+}
+
+.second .contener div p
+{
+    color: #4d4d4d
+}
+/*End second s */
+
+/*Start third s */
+
+.third 
+{
+    text-align: center;
+    height: 300px;
+    padding-top: 80px;
+    color: #fff;
+    background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+}
+/*End third s */
+
+/*Start forth s */
+.forth .contener .up 
+{
+    text-align: center ;
+    padding: 40px;
+}
+
+.forth .contener .up p
+{
+    color: #4d4d4d
+}
+
+.forth .contener .down div
+{
+   float: left;
+   width: 30%;
+   text-align: center;
+   margin: 1.5%;
+}
+
+.forth .contener .down hr
+{
+    width: 340px
+}
+
+
+.forth .contener .down div img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.forth .contener .down div div
+{
+    width: 340px;
+    text-align: left
+}
+
+.forth .contener .down div p
+{
+    display: inline
+}
+
+.forth .contener .down div span
+{
+    padding-left: 55px
+}
+/*End fourth s */
+
+/*Start fifth s */
+
+.fifth .contener .u
+{
+    text-align: center ;
+    padding: 50px; 
+}
+
+.fifth .contener .u p
+{
+    color: #4d4d4d
+}
+
+.fifth .contener .d div
+{
+   float: left;
+   width: 22%;
+   text-align: center;
+   margin: 1.5%;
+   overflow: hidden
+}
+
+.fifth .contener .d img
+{
+    width: 220px;
+    height: 220px
+}
+/*End fifth s */
+
+/*Start footer */
+
+
+footer .contener p
+{
+    float: left
+}
+
+footer .contener span
+{
+    padding-right: 50px
+}
+footer .contener ul
+{
+    float: right;
+    list-style: none
+}
+footer .contener ul li
+{
+    float: left;
+    padding-right: 50px
+}
+/*End footer */
